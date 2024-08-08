@@ -27,9 +27,6 @@
   <a target="_blank" href="https://www.linkedin.com/in/franciscosouzati/">
      <img  src="https://img.shields.io/badge/linkedin-04001E?style=for-the-badge&logo=linkedin&logoColor=1087E0" alt="email">
   </a>&nbsp;
-  <a target="_blank" href="https://wa.link/gx2tpu">
-     <img  src="https://img.shields.io/badge/whatsapp-04001E?style=for-the-badge&logo=whatsapp&logoColor=1087E0" alt="email">
-  </a>&nbsp;
   <a target="_blank" href="https://twitter.com/">
      <img  src="https://img.shields.io/badge/twitter-04001E?style=for-the-badge&logo=twitter&logoColor=1087E0" alt="twitter">
   </a>&nbsp;
